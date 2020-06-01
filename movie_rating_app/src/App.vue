@@ -36,14 +36,14 @@
     </v-container>
   </v-content>
   <v-footer color="indigo" app>
-    <span class="white--text">&copy; 2018</span>
+    <span class="white--text">&copy; 2020</span>
   </v-footer>
  </v-app>
 
 </template>
 
 <script>
-import './assets/stylesheets/main.css';
+import './assets/stylesheets/main.css'
 export default {
  data: () => ({
  drawer: null,
@@ -51,5 +51,5 @@ export default {
  props: {
  source: String,
  },
-};
+}
 </script>
