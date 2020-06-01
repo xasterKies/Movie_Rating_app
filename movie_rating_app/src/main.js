@@ -4,7 +4,6 @@ import Vue from 'vue'
 import Vuetify from 'vuetify'
 import App from './App'
 import router from './router'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-vue/dist/bootstrap-vue'
 import BootstrapVue from 'bootstrap-vue'
 
