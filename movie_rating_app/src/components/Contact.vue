@@ -1,5 +1,5 @@
 <template>
   <v-layout>
-    This is home
+    This is contact page
   </v-layout>
 </template>
