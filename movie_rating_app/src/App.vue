@@ -6,11 +6,12 @@
 </template>
 
 <script>
+import './assets/stylesheets/main.css'
 export default {
   name: 'App'
 }
 </script>
-import './assets/stylesheets/main.css';
+
 
 <style>
 
